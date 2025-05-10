@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70292082318",
+    "project_id": "kat6a-3e50b",
+    "storage_bucket": "kat6a-3e50b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70292082318:android:0643c221ad45e7047f83df",
+        "android_client_info": {
+          "package_name": "com.example.kat6a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsd0cKm4gVo_C55bbD5EXaytWkSfAYDNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
